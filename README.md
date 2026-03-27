@@ -1,4 +1,4 @@
-## Hi there 👋
+**## Hi there 👋
 # 🧭 Zeyad Ahmed Mohamed — Full-Stack Developer (MEAN)
 
 <div align="center">
@@ -108,3 +108,4 @@ Every component should be **clear, modular, and meaningful**.
 <p align="center">
   <sub>crafted by <strong>Zeyad Ahmed Mohamed</strong> • © 2025</sub>
 </p>
+**
