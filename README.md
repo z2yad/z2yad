@@ -1,111 +1,139 @@
-**## Hi there 👋
-# 🧭 Zeyad Ahmed Mohamed — Full-Stack Developer (MEAN)
+## 👋 Hi there, I'm Zeyad Ahmed Mohamed
+
+<h3 align="center">🚀 Full-Stack Developer (MEAN) | Angular Specialist</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer Animation" width="320px" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Angular+Specialist;MEAN+Stack+Engineer;Always+Learning+New+Things" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280"/>
 </div>
 
 ---
 
-<h1 align="center">👋 Hello, I'm <strong>Zeyad Ahmed Mohamed</strong></h1>
-<h3 align="center">Full-Stack Developer | MEAN Stack Specialist</h3>
+## 🌟 About Me
 
-<p align="center">
-  <a href="mailto:zeyadahmed@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/z2yad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/zeyad-salim-3a745a342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
+💻 I'm a **Full-Stack Developer** specializing in the **MEAN Stack**  
+🎯 I build **scalable, modern, and user-friendly applications**  
+🔥 Currently focused on **real-world full-stack projects**
+
+> I turn ideas into real, working products 🚀
 
 ---
 
-## 🧩 About Me
+## 🧠 What I Bring
 
-I’m a **Full-Stack Developer** passionate about creating interactive, scalable, and elegant web applications.  
-I focus on **clean architecture**, **maintainable code**, and **beautiful UI design**.  
-After completing the **MEAN Stack Scholarship**, I’ve built several projects using **Angular**, **Node.js**, and **MongoDB**,  
-and I’m constantly improving my skills to become an expert in modern web technologies.
+✔️ Clean & Scalable Code  
+✔️ Strong Problem Solving  
+✔️ Modern UI/UX Thinking  
+✔️ Real Angular + API Experience  
+✔️ Fast Learner & Team Player  
 
 ---
 
 ## ⚙️ Tech Stack
 
+### 🖥️ Frontend
+- Angular  
+- TypeScript  
+- HTML5 / CSS3  
+- Bootstrap / Tailwind  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+
+### 🗄️ Database
+- MongoDB  
+- Firebase  
+
+### 🛠️ Tools
+- Git & GitHub  
+- VS Code  
+- Figma  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce App (Under Development 🚧)
+- 🔥 Full-Stack MEAN Application  
+- 🧠 Advanced architecture (Angular + Node + MongoDB)  
+- 🛍️ Product management, cart, authentication  
+- ⚡ هدفه يكون Production-Level Project  
+
+---
+
+### 📋 Taskify App
+- 🧩 Task Management System  
+- ✏️ Create, Update, Delete Tasks  
+- ⚡ Built with TypeScript  
+- 🎯 Clean UI + Organized Logic  
+
+---
+
+### 🧠 QuizMaster
+- 🎮 Dynamic Quiz System  
+- 📊 Score Tracking  
+- 🔗 API Integration  
+
+---
+
+### 🌦️ Weather App
+- 🌍 Real-time Weather API  
+- 📱 Responsive UI  
+
+---
+
+## 📌 Current Focus
+
+- 🔥 Advanced Angular (Routing, Services, Optimization)  
+- ⚡ Full-Stack Projects (MEAN)  
+- 🧠 Problem Solving & Algorithms  
+- 🎯 Building Strong Portfolio  
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z2yad&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z2yad&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-| Frontend | Backend | Tools & Design |
-|-----------|----------|----------------|
-| ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg) | ![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) |
-| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) |
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg) | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=z2yad&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🚀 Current Focus
-
-- Building **dynamic Angular applications** with routing and services.  
-- Designing **modern UIs** using Angular Material and Bootstrap.  
-- Creating **RESTful APIs** using Node.js and Express.  
-- Managing **data persistence** with MongoDB and Firebase.  
-- Strengthening **TypeScript** and **frontend optimization** skills.  
-
----
-
-## 💼 Projects
-
-- 👤 **User Management App** — CRUD operations, user roles, authentication.  
-- 📺 **Anime App** — Fetching anime data via API; viewing details, search/filter functionality.  
-- ☁️ **Weather App** — Real-time weather data from API with responsive UI.  
-- ❓ **Advanced Quiz App** — Dynamic questions, scoring, timer, feedback.  
-- 💰 **Expense Tracker (Angular 17)** — Track incomes & expenses, charts, local storage / backend sync.  
-
----
-
-## 📖 Philosophy
-
-> “Code is like art — the beauty lies in its structure and logic.”
-
-I believe programming is not just about solving problems,  
-but about **creating experiences** that combine functionality with simplicity.  
-Every component should be **clear, modular, and meaningful**.
-
----
-
-## 🌐 Portfolio
-
-🎯 Portfolio coming soon… stay tuned!
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z2yad&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z2yad&layout=compact&theme=react&hide_border=true&langs_count=8" height="160" />
-  <img src="https://streak-stats.demolab.com?user=z2yad&theme=react&hide_border=true" height="160" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA1NWZpMmI5NzU0em9yZ3R0Z2Q2MWJ3d2Yycmtza3NpMXAzbzBqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Footer Animation" height="120px" />
-  <br/>
-  <sub><i>Continuous learning • Clean design • Meaningful creation</i></sub>
-</div>
-
----
+## 🌐 Connect With Me
 
 <p align="center">
-  <sub>crafted by <strong>Zeyad Ahmed Mohamed</strong> • © 2025</sub>
+  <a href="mailto:zeyadahmed@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/z2yad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zeyad-salim-3a745a342/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
-**
+
+---
+
+## 💡 Philosophy
+
+> "Great developers don’t just write code — they build experiences."
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+  <br/>
+  <sub>🚀 Keep Building • Keep Learning • Keep Growing</sub>
+</div>
