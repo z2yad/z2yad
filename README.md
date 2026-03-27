@@ -39,13 +39,14 @@
 ```typescript
 const zeyad: Developer = {
   name      : "Zeyad Ahmed Mohamed",
+  alias     : "z2yad",
   role      : "Full-Stack Developer",
   stack     : "MEAN (MongoDB · Express · Angular · Node)",
   university: "Benha University — CS & AI",
   year      : "2nd Year Student 🎓",
 
-  currentlyBuilding : "E-Commerce App (Angular 21) 🛒",
-  currentlyLearning : ["Advanced Angular Signals", "Spring Boot", "DSA"],
+  currentlyBuilding : "Rendering — E-Commerce App (Angular 21) 🛒",
+  currentlyLearning : ["Angular Signals", "Spring Boot", "DSA"],
   lookingFor        : ["Freelance Projects 💼", "Collaborations 🤝"],
 
   hardFacts: {
@@ -78,7 +79,7 @@ const zeyad: Developer = {
 <br/><sub><b>Primary Database</b></sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/🎨_Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/🎨_Tailwind_4-CSS-06B6D4?style=flat-square&logo=tailwindcss"/>
 <br/><sub><b>Styling Layer</b></sub>
 </td>
 </tr>
@@ -151,6 +152,7 @@ const zeyad: Developer = {
 |:------|:------------|:-----:|
 | Angular / TypeScript | `████████████░░░░` 75% | ⚡ Advanced |
 | HTML / CSS / Tailwind | `███████████████░` 95% | 🎨 Expert |
+| JavaScript (ES6+) | `█████████████░░░` 85% | 💛 Advanced |
 | Node.js / Express | `█████████░░░░░░░` 60% | 🔧 Intermediate |
 | MongoDB | `████████░░░░░░░░` 55% | 🍃 Intermediate |
 | Git / GitHub | `█████████████░░░` 85% | 🔀 Advanced |
@@ -170,58 +172,58 @@ const zeyad: Developer = {
 
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce App
+### 🛒 Rendering — E-Commerce App
 > **Flagship project — Production-Level**
 
+<a href="https://e-commerce-iota-sand.vercel.app/">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-e--commerce--iota--sand.vercel.app-000000?style=flat-square&logo=vercel"/>
+</a>
+<br/>
 <img src="https://img.shields.io/badge/Status-🚧_In_Progress-f59e0b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel"/>
 
 **Tech Stack:**
 <br/>
 <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
 
 **Highlights:**
-- ⚡ SSR / SSG / CSR per-route strategy
-- 🎨 spartan/ui + Tailwind custom design tokens
-- 🧩 PrimeNG admin panel
-- 🔗 JSON Server → migrating to Spring Boot
-- 📦 Products · Cart · Checkout · Auth · Orders
+- 🚀 SSR with `@angular/ssr` — SEO optimized
+- 🎨 Glassmorphism UI + OKLCH color spaces
+- 🔔 `ngx-sonner` real-time toast notifications
+- 🛒 Reactive cart with persistent state
+- 🛡️ Multi-step checkout with route guards
+- 🧩 spartan/ui + PrimeNG admin panel
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📋 Taskify — Task Manager
-> **CRUD Task Management System**
+### 🧠 QuizMaster — Quiz Engine
+> **Full-Featured Quiz Application**
 
+<a href="https://github.com/z2yad/QuizMaster">
+  <img src="https://img.shields.io/badge/🐙_View_on_GitHub-181717?style=flat-square&logo=github"/>
+</a>
+<br/>
 <img src="https://img.shields.io/badge/Status-✅_Live-22c55e?style=flat-square"/>
 
 **Tech Stack:**
 <br/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTDB_API-00897B?style=flat-square"/>
 
-- ✏️ Create, Update, Delete tasks
-- 🎯 Clean architecture & component design
-- 📱 Fully responsive UI
-
----
-
-### 🧠 QuizMaster
-> **Dynamic Quiz Engine**
-
-<img src="https://img.shields.io/badge/Status-✅_Live-22c55e?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-
-- 🎮 Dynamic question rendering
-- 📊 Real-time score tracking
-- 🔗 External API integration
+**Highlights:**
+- 🎯 6 quiz categories (History, Science, Sports...)
+- 🌓 Light & Dark mode support
+- 🔐 SHA-256 password hashing with unique salts
+- 📊 Score tracking & statistics
+- ⚡ SPA routing with Navigo
+- 📱 Fully responsive (Mobile → Desktop)
 
 </td>
 
@@ -230,17 +232,17 @@ const zeyad: Developer = {
 
 <td width="50%" valign="top">
 
-### 🌦️ Weather App
-> **Real-Time Weather Dashboard**
+### 📋 Taskify — Task Manager
+> **CRUD Task Management System**
 
 <img src="https://img.shields.io/badge/Status-✅_Live-22c55e?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular"/>
-<img src="https://img.shields.io/badge/OpenWeather_API-EB6E4B?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-- 🌍 Live weather from OpenWeather API
-- 📍 Location-based search
-- 📱 Responsive across all devices
+- ✏️ Create, Update, Delete tasks
+- 🎯 Clean architecture & component design
+- 📱 Fully responsive UI
 
 </td>
 
@@ -315,7 +317,8 @@ const zeyad: Developer = {
 ╠══════════════════════════════════════════════════════════╣
 ║  ✅  Angular 21 — Signals, Defer, SSR/SSG/CSR            ║
 ║  ✅  MEAN Stack — Production Architecture                 ║
-║  🔥  E-Commerce App — Finishing Cart & Checkout          ║
+║  ✅  Vitest — Unit Testing Setup                         ║
+║  🔥  Rendering — Finishing Cart & Checkout               ║
 ║  📌  Spring Boot — Backend Migration                     ║
 ║  📌  DSA — Problem Solving & Algorithms                  ║
 ║  📌  Freelancing — Building Client Portfolio             ║
@@ -339,16 +342,22 @@ const zeyad: Developer = {
 
 <div align="center">
 
-<a href="mailto:zeyadahmed@example.com">
-  <img src="https://img.shields.io/badge/📧_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:ziadsalim121@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Gmail-ziadsalim121%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
+<br/><br/>
+
 <a href="https://github.com/z2yad">
-  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐙_GitHub-z2yad-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/zeyad-salim-3a745a342/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/zeyad-salim/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-zeyad--salim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/zeyad_ssalem/">
+  <img src="https://img.shields.io/badge/📸_Instagram-zeyad__ssalem-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
