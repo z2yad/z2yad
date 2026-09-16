@@ -376,11 +376,7 @@ A compact (~614 lines) but complete demonstration of C++ fundamentals, 3D math, 
 
 &nbsp;&nbsp;
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=z2yad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1&border_radius=8&langs_count=8"
-  alt="Zeyad's Top Languages"
-/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=z2yad&theme=transparent" alt="GitHub Streak" /></a>
 
 </div>
 
