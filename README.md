@@ -364,66 +364,128 @@ A compact (~614 lines) but complete demonstration of C++ fundamentals, 3D math, 
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=z2yad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&border_radius=8&include_all_commits=true&count_private=true"
-  alt="Zeyad's GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=z2yad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1&border_radius=8&langs_count=8"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
+  <!-- GitHub Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=z2yad&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748d&border_radius=8"
-    alt="GitHub Streak"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=z2yad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&border_radius=8&include_all_commits=true&count_private=true"
+    alt="Zeyad's GitHub Stats"
   />
-</a>
+
+  &nbsp;
+
+  <!-- Top Languages -->
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=z2yad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1&border_radius=8&langs_count=8"
+    alt="Zeyad's Top Languages"
+  />
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<img
-  width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=z2yad&bg_color=0D1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=0c4a6e&hide_border=true&radius=8"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=z2yad&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
----
 
 <!-- ============================================================ -->
-<!--         TROPHIES                                             -->
+<!--                         STREAK                               -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/streak-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/streak-light.svg"
+    />
+
+    <img
+      src="./profile/streak-dark.svg"
+      alt="GitHub Contribution Streak"
+      width="495"
+    />
+  </picture>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    ACTIVITY GRAPH                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+  <img
+    width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=z2yad&bg_color=0D1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=0c4a6e&hide_border=true&radius=8"
+    alt="GitHub Activity Graph"
+  />
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                       SNAKE                                  -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/z2yad/z2yad/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/z2yad/z2yad/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/z2yad/z2yad/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+
+  </picture>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                      ACHIEVEMENTS                            -->
 <!-- ============================================================ -->
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=z2yad&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/trophy-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/trophy-light.svg"
+    />
+
+    <img
+      src="./profile/trophy-dark.svg"
+      alt="GitHub Achievements"
+      width="100%"
+    />
+
+  </picture>
+
 </div>
 
 ---
