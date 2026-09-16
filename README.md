@@ -371,9 +371,14 @@ A compact (~614 lines) but complete demonstration of C++ fundamentals, 3D math, 
 </div>
 
 <div align="center">
-<br/>
-<img src="https://streak-stats.demolab.com?user=z2yad&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748b&border_radius=8"/>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=z2yad&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748d&border_radius=8"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
+
 
 <br/>
 
