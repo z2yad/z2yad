@@ -466,27 +466,14 @@ A compact (~614 lines) but complete demonstration of C++ fundamentals, 3D math, 
 
 <div align="center">
 
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/trophy-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/trophy-light.svg"
-    />
-
-    <img
-      src="./profile/trophy-dark.svg"
-      alt="GitHub Achievements"
-      width="100%"
-    />
-
-  </picture>
+<img
+  src="./profile/trophy-dark.svg"
+  alt="GitHub Achievements"
+  width="100%"
+/>
 
 </div>
+
 
 ---
 
