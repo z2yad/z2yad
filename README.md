@@ -370,7 +370,7 @@ A compact (~614 lines) but complete demonstration of C++ fundamentals, 3D math, 
 
 <img
   height="180"
-  src="./profile/stats-dark.svg"
+  src="https://github-readme-stats.vercel.app/api?username=z2yad&show_icons=true&theme=transparent&hide_border=true&commits_year=2026&number_format=long&cache_seconds=21600"
   alt="Zeyad's GitHub Stats"
 />
 
